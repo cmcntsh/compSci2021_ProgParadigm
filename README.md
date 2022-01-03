@@ -6,7 +6,7 @@ Computer programming is a wide field. Not every computer program is created and 
 
 ## Exercises
 
-* Python object oriented programming assignment https://github.com/cmcntsh/exerPythObjectOriented
+* Python object oriented programming assignment https://github.com/cmcntsh/exerPythObjectOriented 
 
 ## Assigned Instructional Material
 
